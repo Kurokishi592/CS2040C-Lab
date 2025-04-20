@@ -1,0 +1,4 @@
+﻿  queue_simulator.cpp
+C:\Users\65912\iCloudDrive\2024-2028 University\Academics\' CS2040C Data Structures and Algorithms\Assignments\Assignment 4\Assignment 4\queue_simulator.cpp(38,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\65912\iCloudDrive\2024-2028 University\Academics\' CS2040C Data Structures and Algorithms\Assignments\Assignment 4\Assignment 4\queue_simulator.cpp(114,30): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Assignment 4.vcxproj -> C:\Users\65912\iCloudDrive\2024-2028 University\Academics\' CS2040C Data Structures and Algorithms\Assignments\Assignment 4\Assignment 4\x64\Debug\Assignment 4.exe

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\65912\\iCloudDrive\\2024-2028 University\\Academics\\\u0027 CS2040C Data Structures and Algorithms\\Assignments\\Assignment 1\\CS2040C Assignment 1 Linked List MSVS version\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0C4D14D-D5B0-4F52-A155-BE4622A1E97B}|CS2040C Assignment 1 Linked List.vcxproj|C:\\Users\\65912\\iCloudDrive\\2024-2028 University\\Academics\\\u0027 CS2040C Data Structures and Algorithms\\Assignments\\Assignment 1\\CS2040C Assignment 1 Linked List MSVS version\\LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A0C4D14D-D5B0-4F52-A155-BE4622A1E97B}|CS2040C Assignment 1 Linked List.vcxproj|solutionrelative:LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LinkedList.cpp",
+              "DocumentMoniker": "C:\\Users\\65912\\iCloudDrive\\2024-2028 University\\Academics\\\u0027 CS2040C Data Structures and Algorithms\\Assignments\\Assignment 1\\CS2040C Assignment 1 Linked List MSVS version\\LinkedList.cpp",
+              "RelativeDocumentMoniker": "LinkedList.cpp",
+              "ToolTip": "C:\\Users\\65912\\iCloudDrive\\2024-2028 University\\Academics\\\u0027 CS2040C Data Structures and Algorithms\\Assignments\\Assignment 1\\CS2040C Assignment 1 Linked List MSVS version\\LinkedList.cpp",
+              "RelativeToolTip": "LinkedList.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAmwEYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-03T20:11:44.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

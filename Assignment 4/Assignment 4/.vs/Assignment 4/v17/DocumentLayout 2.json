@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\65912\\iCloudDrive\\2024-2028 University\\Academics\\\u0027 CS2040C Data Structures and Algorithms\\Assignments\\Assignment 4\\Assignment 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23470D46-0CCF-41A5-BD34-EE933883DC8D}|Assignment 4.vcxproj|C:\\Users\\65912\\iCloudDrive\\2024-2028 University\\Academics\\\u0027 CS2040C Data Structures and Algorithms\\Assignments\\Assignment 4\\Assignment 4\\heap.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{23470D46-0CCF-41A5-BD34-EE933883DC8D}|Assignment 4.vcxproj|solutionrelative:heap.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "heap.hpp",
+              "DocumentMoniker": "C:\\Users\\65912\\iCloudDrive\\2024-2028 University\\Academics\\\u0027 CS2040C Data Structures and Algorithms\\Assignments\\Assignment 4\\Assignment 4\\heap.hpp",
+              "RelativeDocumentMoniker": "heap.hpp",
+              "ToolTip": "C:\\Users\\65912\\iCloudDrive\\2024-2028 University\\Academics\\\u0027 CS2040C Data Structures and Algorithms\\Assignments\\Assignment 4\\Assignment 4\\heap.hpp",
+              "RelativeToolTip": "heap.hpp",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAwKIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-01T00:38:10.808Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

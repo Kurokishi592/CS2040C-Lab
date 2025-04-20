@@ -1,0 +1,5 @@
+﻿  train.cpp
+C:\Users\65912\iCloudDrive\2024-2028 University\Academics\' CS2040C Data Structures and Algorithms\Assignments\Assignment 5\graph.h(54,51): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file '../train.cpp')
+  
+  Assignment 5.vcxproj -> C:\Users\65912\iCloudDrive\2024-2028 University\Academics\' CS2040C Data Structures and Algorithms\Assignments\Assignment 5\Assignment 5\x64\Debug\Assignment 5.exe

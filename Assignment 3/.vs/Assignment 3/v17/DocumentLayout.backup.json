@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\65912\\iCloudDrive\\2024-2028 University\\Academics\\\u0027 CS2040C Data Structures and Algorithms\\Assignments\\Assignment 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1ADEDC9-FE35-4C65-AFD6-0EA92774613B}|Assignment 3.vcxproj|C:\\Users\\65912\\iCloudDrive\\2024-2028 University\\Academics\\\u0027 CS2040C Data Structures and Algorithms\\Assignments\\Assignment 3\\BST.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1ADEDC9-FE35-4C65-AFD6-0EA92774613B}|Assignment 3.vcxproj|solutionrelative:BST.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BST.hpp",
+              "DocumentMoniker": "C:\\Users\\65912\\iCloudDrive\\2024-2028 University\\Academics\\\u0027 CS2040C Data Structures and Algorithms\\Assignments\\Assignment 3\\BST.hpp",
+              "RelativeDocumentMoniker": "BST.hpp",
+              "ToolTip": "C:\\Users\\65912\\iCloudDrive\\2024-2028 University\\Academics\\\u0027 CS2040C Data Structures and Algorithms\\Assignments\\Assignment 3\\BST.hpp",
+              "RelativeToolTip": "BST.hpp",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAKMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-03T09:16:23.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
